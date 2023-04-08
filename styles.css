@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.test{
+	display: inline-block;
+    margin: 100px 100px; 
+	padding: 50px 50px;
+	align-items: center;
+	background-color: #F1F1F1;
+}
+.test button{
+	background-color: #FE625A;
+	padding: 20px 40px;
+	border-radius: 10px;
+	display: flex;
+	text-decoration-button: none;
+}
