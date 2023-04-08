@@ -5,6 +5,7 @@
 	padding: 50px 50px;
 	align-items: center;
 	background-color: #F1F1F1;
+	
 }
 .test button{
 	background-color: #FE625A;
@@ -13,4 +14,16 @@
 	display: flex;
 	margin-left: 60px;
 	border: none;
+}
+.test h1{
+	margin: 0;
+	font-size: 50px;
+} 
+p{
+	font-weight: bold;
+	font-size: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 0;
 }
